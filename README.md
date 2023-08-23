@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Philipp</h1>
 <h3 align="center">A Computer Science Student from Germany</h3>
 
-- 🔭 I’m currently working on **Typingspeed Application for Coders, LeetCode 75**
+- 🔭 I’m currently working on **Algorithms, LeetCode 75**
 
 - 🌱 I’m currently learning **Python, Linux**
 
-- 👨‍💻 I’m interested in **Java, Algorithms**
+- 👨‍💻 I’m interested in **Algorithms**
 
 - 📫 How to reach me **steinmannphilipp@web.de**
 
